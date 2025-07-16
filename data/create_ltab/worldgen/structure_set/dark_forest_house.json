@@ -12,7 +12,7 @@
     "salt": 920751271,
     "exclusion_zone": {
       "chunk_count": 6,
-      "other_set": "tfe:villages_all"
+      "other_set": "#tfe:villages_all"
     }
   }
 }

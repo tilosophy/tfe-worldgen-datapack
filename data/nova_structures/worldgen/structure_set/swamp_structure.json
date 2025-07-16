@@ -13,7 +13,7 @@
     "type": "minecraft:random_spread",
     "salt": 3042970,
     "exclusion_zone": {
-      "other_set": "tfe:villages_all",
+      "other_set": "#tfe:villages_all",
       "chunk_count": 10
     },
     "separation": 20,

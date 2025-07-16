@@ -29,7 +29,7 @@
     "type": "minecraft:random_spread",
     "salt": 399125,
     "exclusion_zone": {
-      "other_set": "tfe:nether_structures_prio",
+      "other_set": "#tfe:nether_structures_prio",
       "chunk_count": 10
     },
     "spacing": 20,

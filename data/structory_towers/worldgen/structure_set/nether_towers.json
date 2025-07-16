@@ -20,7 +20,7 @@
     "frequency": 0.9,
     "exclusion_zone": {
       "chunk_count": 8,
-      "other_set": "tfe:nether_structures_prio"
+      "other_set": "#tfe:nether_structures_prio"
     },
     "spread_type": "triangular",
     "spacing": 33,

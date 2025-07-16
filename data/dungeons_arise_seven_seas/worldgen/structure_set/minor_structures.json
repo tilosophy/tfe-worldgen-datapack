@@ -28,7 +28,7 @@
     "type": "minecraft:random_spread",
     "exclusion_zone": {
       "chunk_count": 6,
-      "other_set": "dungeons_arise:da_minor_avoid"
+      "other_set": "#dungeons_arise:da_minor_avoid"
     }
   }
 }
