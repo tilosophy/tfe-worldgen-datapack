@@ -1,0 +1,18 @@
+{
+	"structures": [
+		{
+			"structure": "nova_structures:illager_camp",
+			"weight": 1
+		}
+	],
+	"placement": {
+		"type": "minecraft:random_spread",
+		"salt": 4533232,
+		"exclusion_zone": {
+    		"other_set": "tfe:villages_all",
+    		"chunk_count": 10
+		},
+		"spacing": 50,
+		"separation": 32
+	}
+}

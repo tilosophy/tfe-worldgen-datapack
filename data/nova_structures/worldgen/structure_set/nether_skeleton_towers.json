@@ -1,0 +1,30 @@
+{
+  "structures": [
+    {
+      "structure": "nova_structures:nether_skeleton_tower_waste",
+      "weight": 1
+    },
+	{
+      "structure": "nova_structures:nether_skeleton_tower_warped",
+      "weight": 1
+    },
+	{
+      "structure": "nova_structures:nether_skeleton_tower_crimson",
+      "weight": 1
+    },
+	{
+      "structure": "nova_structures:nether_skeleton_tower_soul",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 940354935,
+    "exclusion_zone": {
+    		"other_set": "tfe:nether_structures_prio",
+    		"chunk_count": 10
+		},
+    "separation": 20,
+    "spacing": 40
+  }  
+}

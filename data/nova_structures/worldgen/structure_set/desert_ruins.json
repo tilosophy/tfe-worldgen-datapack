@@ -1,0 +1,18 @@
+{
+	"structures": [
+		{
+			"structure": "nova_structures:desert_ruins",
+			"weight": 1
+		}
+	],
+	"placement": {
+		"type": "minecraft:random_spread",
+		"salt": 239021,
+		"exclusion_zone": {
+    		"other_set": "tfe:villages_all",
+    		"chunk_count": 10
+		},
+		"spacing": 80,
+		"separation": 12	
+	}
+}

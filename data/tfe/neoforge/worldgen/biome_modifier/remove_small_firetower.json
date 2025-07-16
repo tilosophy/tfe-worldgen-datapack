@@ -1,0 +1,6 @@
+{
+    "type": "neoforge:remove_features",
+    "biomes": "#structory_towers:birch_biomes",
+    "features": "structory_towers:small_firetower",
+    "steps": "surface_structures"
+}

@@ -1,0 +1,197 @@
+{
+  "replace": false,
+  "values": [
+    "#nova_structures:collections/taiga",
+    "#minecraft:is_taiga",
+    "minecraft:grove",
+	  "#minecraft:is_forest",
+	  "minecraft:plains",
+    "minecraft:sunflower_plains",
+	  "minecraft:dripstone_caves",
+	  "minecraft:lush_caves",
+    {
+      "id": "#c:plains",
+      "required": false
+    },
+    {
+      "id": "#forge:is_forest",
+      "required": false
+    },
+    {
+      "id": "#c:forest",
+      "required": false
+    },
+    {
+      "id": "#forge:is_spooky",
+      "required": false
+    },
+    {
+      "id": "#forge:is_dead",
+      "required": false
+    },
+    {
+      "id": "#c:dead",
+      "required": false
+    },
+    {
+      "id": "terralith:brushland",
+      "required": false
+    },
+    {
+      "id": "terralith:snowy_cherry_grove",
+      "required": false
+    },
+    {
+      "id": "terralith:mirage_isles",
+      "required": false
+    },
+    {
+      "id": "terralith:forested_highlands",
+      "required": false
+    },
+    {
+      "id": "terralith:lavender_forest",
+      "required": false
+    },
+    {
+      "id": "terralith:moonlight_grove",
+      "required": false
+    },
+    {
+      "id": "terralith:moonlight_valley",
+      "required": false
+    },
+    {
+      "id": "terralith:rocky_shrubland",
+      "required": false
+    },
+    {
+      "id": "terralith:shrubland",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:dead_forest",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:redwood_forest",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:old_growth_dead_forest",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:seasonal_forest",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:old_growth_woodland",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:canadian_shield",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:maple_taiga",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:orchard",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:ebony_woods",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:autumnal_maple_forest",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:barley_fields",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:blackwood_taiga",
+      "required": false
+    },
+  	{
+      "id": "regions_unexplored:golden_boreal_taiga",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:cold_deciduous_forest",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:deciduous_forest",
+      "required": false
+    },
+  	{
+      "id": "regions_unexplored:dry_bushland",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:eucalyptus_forest",
+      "required": false
+    },
+  	{
+      "id": "regions_unexplored:flower_fields",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:frozen__pine_taiga",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:frozen_tundra",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:grassland",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:icy_heights",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:lupine_plains",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:pine_taiga",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:poppy_fields",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:pumpkin_fields",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:redstone_caves",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:bioshroom_caves",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:spires",
+      "required": false
+    },
+  	{
+      "id": "regions_unexplored:steppe",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:willow_forest",
+      "required": false
+    }
+  ]
+}

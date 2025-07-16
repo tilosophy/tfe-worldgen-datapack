@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:villages",
+    "minecraft:pillager_outposts",
+    "minecraft:jungle_temple",
+    "minecraft:desert_pyramid",
+    "minecraft:pillager_outpost",
+    "minecraft:woodland_mansion"
+  ]
+}

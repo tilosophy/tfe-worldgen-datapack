@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "skyvillages:skyvillage",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 23734816,
+    "spacing": 48,
+    "separation": 36,
+    "exclusion_zone": {
+      "chunk_count": 12,
+      "other_set": "skyvillages:skyvillage_avoid"
+    }
+  }
+}

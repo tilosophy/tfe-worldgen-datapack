@@ -1,0 +1,6 @@
+{
+    "type": "neoforge:remove_features",
+    "biomes": "#create_structures_arise:structure_land_biomes",
+    "features": "create_structures_arise:createpickaxe",
+    "steps": "surface_structures"
+}

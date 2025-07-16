@@ -1,0 +1,22 @@
+{
+	"structures": [
+		{
+			"structure": "nova_structures:stray_fort",
+			"weight": 9
+		},
+		{
+			"structure": "nova_structures:lone_citadel",
+			"weight": 1
+		}
+	],
+	"placement": {
+		"type": "minecraft:random_spread",
+		"salt": 5004938900,
+		"exclusion_zone": {
+    		"other_set": "tfe:villages_all",
+    		"chunk_count": 10
+		},
+		"spacing": 100,
+		"separation": 16		
+	}
+}

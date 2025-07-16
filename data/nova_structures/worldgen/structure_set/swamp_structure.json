@@ -1,0 +1,23 @@
+{
+  "structures": [
+    {
+      "structure": "nova_structures:witch_villa",
+      "weight": 3
+    },
+	  {
+      "structure": "nova_structures:toxic_lair",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 3042970,
+    "exclusion_zone": {
+      "other_set": "tfe:villages_all",
+      "chunk_count": 10
+    },
+    "separation": 20,
+    "spacing": 80,
+    "spread_type": "triangular"
+  }
+}
