@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:mushroom_fields",
+    {
+      "id": "biomesoplenty:fungal_jungle",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:mystic_grove",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:fungal_fen",
+      "required": false
+    }
+  ]
+}

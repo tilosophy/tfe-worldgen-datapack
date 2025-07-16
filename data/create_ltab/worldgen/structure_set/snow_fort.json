@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "create_ltab:snow_fort",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 80,
+    "separation": 20,
+    "salt": 281224036,
+    "exclusion_zone": {
+      "chunk_count": 8,
+      "other_set": "tfe:villages_all"
+    }
+  }
+}

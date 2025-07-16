@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:warped_forest",
+    {
+      "id": "regions_unexplored:mycotoxic_undergrowth",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:undergrowth",
+      "required": false
+    },
+    {
+      "id": "incendium:inverted_forest",
+      "required": false
+    }
+  ]
+}

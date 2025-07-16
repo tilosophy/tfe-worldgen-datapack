@@ -1,0 +1,90 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_nether",
+    {
+      "id": "#forge:is_nether",
+      "required": false
+    },
+    {
+      "id": "#c:nether",
+      "required": false
+    },
+    {
+      "id": "#c:in_nether",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:blackstone_basin",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:infernal_holt",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:redstone_abyss",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:glistering_meadow",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:mycotoxic_undergrowth",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:crystalline_chasm",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:erupting_inferno",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:visceral_heap",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:undergrowth",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:withered_abyss",
+      "required": false
+    },
+    {
+      "id": "incendium:ash_barrens",
+      "required": false
+    },
+    {
+      "id": "incendium:infernal_dunes",
+      "required": false
+    },
+    {
+      "id": "incendium:inverted_forest",
+      "required": false
+    },
+    {
+      "id": "incendium:quartz_flats",
+      "required": false
+    },
+    {
+      "id": "incendium:toxic_heap",
+      "required": false
+    },
+    {
+      "id": "incendium:volcanic_deltas",
+      "required": false
+    },
+    {
+      "id": "incendium:weeping_valley",
+      "required": false
+    },
+    {
+      "id": "incendium:withered_forest",
+      "required": false
+    }
+  ]
+}

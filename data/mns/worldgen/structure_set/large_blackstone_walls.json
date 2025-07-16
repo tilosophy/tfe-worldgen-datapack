@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "mns:large_blackstone_walls",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "mns:advanced_random_spread",
+    "salt": 122364734,
+    "exclusion_zone": {
+      "chunk_count": 6,
+      "other_set": "tfe:nether_structures_prio"
+    },
+    "spacing": 29,
+    "separation": 11
+  }
+}

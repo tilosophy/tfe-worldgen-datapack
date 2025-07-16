@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "create_ltab:big_end_lab",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 65,
+    "separation": 30,
+    "salt": 1150739257,
+    "exclusion_zone": {
+      "chunk_count": 10,
+      "other_set": "tfe:end_structures_prio"
+    }
+  }
+}

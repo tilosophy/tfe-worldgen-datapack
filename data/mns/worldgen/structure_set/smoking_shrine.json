@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "mns:smoking_shrine",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "mns:advanced_random_spread",
+    "salt": 122395845,
+    "exclusion_zone": {
+      "chunk_count": 5,
+      "other_set": "tfe:nether_structures_prio"
+    },
+    "spacing": 26,
+    "separation": 17
+  }
+}

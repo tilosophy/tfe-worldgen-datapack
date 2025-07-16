@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "create_structures_arise:createdungeonbase",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 350,
+    "separation": 4,
+    "salt": 69658619,
+    "exclusion_zone": {
+      "chunk_count": 8,
+      "other_set": "tfe:villages_all"
+    }
+  }
+}

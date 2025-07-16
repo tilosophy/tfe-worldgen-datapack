@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "create_structures_arise:darkcastle",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 190,
+    "separation": 4,
+    "salt": 151039667,
+    "exclusion_zone": {
+      "chunk_count": 12,
+      "other_set": "tfe:villages_all"
+    }
+  }
+}

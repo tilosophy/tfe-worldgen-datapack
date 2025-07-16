@@ -1,0 +1,20 @@
+{
+  "structures": [
+    {
+      "structure": "create_ltab:thecastle",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:concentric_rings",
+    "count": 5,
+    "distance": 30,
+    "preferred_biomes": "#minecraft:has_structure/trail_ruins",
+    "salt": 0,
+    "spread": 1,
+    "exclusion_zone": {
+      "chunk_count": 10,
+      "other_set": "tfe:villages_all"
+    }
+  }
+}
