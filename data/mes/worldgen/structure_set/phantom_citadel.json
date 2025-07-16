@@ -10,7 +10,7 @@
     "salt": 132545874,
     "exclusion_zone": {
       "chunk_count": 6,
-      "other_set": "tfe:end_structures_basic"
+      "other_set": "minecraft:end_cities"
     },
     "spacing": 35,
     "separation": 20,

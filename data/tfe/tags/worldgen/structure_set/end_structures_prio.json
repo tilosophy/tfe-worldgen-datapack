@@ -1,7 +1,7 @@
 {
   "replace": false,
   "values": [
-    "minecraft:end_city",
+    "minecraft:end_cities",
     "mes:ender_spire",
     "mes:enderkeep_courtyard",
     "mes:enderwatch_tower",

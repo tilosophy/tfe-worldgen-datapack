@@ -12,7 +12,7 @@
     "separation": 36,
     "exclusion_zone": {
       "chunk_count": 12,
-      "other_set": "skyvillages:skyvillage_avoid"
+      "other_set": "tfe:avoid_base_structures"
     }
   }
 }
