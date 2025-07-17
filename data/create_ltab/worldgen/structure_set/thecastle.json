@@ -14,7 +14,7 @@
     "spread": 1,
     "exclusion_zone": {
       "chunk_count": 10,
-      "other_set": "#tfe:villages_all"
+      "other_set": "#create_ltab:ltab_avoid"
     }
   }
 }
