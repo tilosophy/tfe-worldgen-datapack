@@ -15,7 +15,7 @@
     "separation": 10,
     "exclusion_zone": {
       "chunk_count": 8,
-      "other_set": "#tfe:end_structures_prio"
+      "other_set": "#structory_towers:stowers_end_avoid"
     }
   }
 }

@@ -10,7 +10,7 @@
     "salt": 533652584,
     "exclusion_zone": {
       "chunk_count": 4,
-      "other_set": "#tfe:villages_all"
+      "other_set": "#mvs:mvs_avoid"
     },
     "spacing": 96,
     "separation": 80,

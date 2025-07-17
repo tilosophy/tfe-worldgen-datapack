@@ -25,7 +25,7 @@
     "type": "minecraft:random_spread",
     "salt": 5894302,
     "exclusion_zone": {
-    		"other_set": "#tfe:nether_structures_prio",
+    		"other_set": "#nova_structures:nova_nether_avoid",
     		"chunk_count": 10
 		},
     "separation": 40,

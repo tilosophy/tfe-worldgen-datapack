@@ -9,7 +9,7 @@
 		"type": "minecraft:random_spread",
 		"salt": 783,
 		"exclusion_zone": {
-    		"other_set": "#tfe:villages_all",
+    		"other_set": "#nova_structures:nova_avoid",
     		"chunk_count": 10
 		},
 		"spacing": 60,

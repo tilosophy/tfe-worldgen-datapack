@@ -10,7 +10,7 @@
     "salt": 122364734,
     "exclusion_zone": {
       "chunk_count": 6,
-      "other_set": "#tfe:nether_structures_prio"
+      "other_set": "#mns:mns_avoid"
     },
     "spacing": 29,
     "separation": 11
