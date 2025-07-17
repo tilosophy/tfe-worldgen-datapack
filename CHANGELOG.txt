@@ -1,5 +1,0 @@
-♻️ Version 2 ♻️
-TBD
-
-♻️ Version 1 ♻️
-Initial setup for all biome and structure mods (1.21.1, NeoForge)
