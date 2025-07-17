@@ -1,1 +1,7 @@
-ABC  
+{
+  "replace": false,
+  "values": [
+    "minecraft:villages",
+    "skyvillages:skyvillage"
+  ]
+}
