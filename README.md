@@ -11,7 +11,7 @@ This avoids any hostile structures spawning (too) close to villages and other (t
 
 💡Finally, this datapack updates the biome tag files of all structure mods to account for the range of biome mods in this pack.
 
-A separate CHANGELOG.txt is included to track all future adjustments and changes.
+As the datapack is now hosted on github, no changelog will be provided in .TXT format.
 
 ========================================
 
