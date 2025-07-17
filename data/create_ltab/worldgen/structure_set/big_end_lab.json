@@ -12,7 +12,7 @@
     "salt": 1150739257,
     "exclusion_zone": {
       "chunk_count": 10,
-      "other_set": "#tfe:end_structures_prio"
+      "other_set": "#create_ltab:ltab_end_avoid"
     }
   }
 }
