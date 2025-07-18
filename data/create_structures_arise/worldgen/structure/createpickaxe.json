@@ -10,6 +10,6 @@
     "absolute": 0
   },
   "project_start_to_heightmap": "WORLD_SURFACE_WG",
-  "biomes": "#tfe:disabled_structures",
+  "biomes": "#create_structures_arise:structures_arise_disabled",
   "use_expansion_hack": false
 }

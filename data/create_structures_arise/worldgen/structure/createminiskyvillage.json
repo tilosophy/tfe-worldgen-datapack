@@ -15,6 +15,6 @@
       "absolute": 201
     }
   },
-  "biomes": "#tfe:disabled_structures",
+  "biomes": "#create_structures_arise:structures_arise_disabled",
   "use_expansion_hack": false
 }

@@ -1,6 +1,0 @@
-{
-  "type": "neoforge:remove_features",
-  "biomes": "#structory:has_structure/firetower",
-  "features": "structory:firetower",
-  "steps": "raw_generation"
-}
