@@ -18,9 +18,9 @@
     }
   ],
   "placement": {
-    "type": "minecraft:random_spread",
+    "type": "repurposed_structures:advanced_random_spread",
     "salt": 940354935,
-    "exclusion_zone": {
+    "super_exclusion_zone": {
     		"other_set": "#nova_structures:nova_nether_avoid",
     		"chunk_count": 10
 		},

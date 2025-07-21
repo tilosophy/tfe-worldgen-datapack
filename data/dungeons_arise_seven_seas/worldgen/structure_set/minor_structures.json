@@ -25,8 +25,8 @@
     "salt": 98123789,
     "spacing": 64,
     "separation": 56,
-    "type": "minecraft:random_spread",
-    "exclusion_zone": {
+    "type": "repurposed_structures:advanced_random_spread",
+    "super_exclusion_zone": {
       "chunk_count": 6,
       "other_set": "#dungeons_arise_seven_seas:dass_avoid"
     }

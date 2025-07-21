@@ -6,14 +6,14 @@
     }
   ],
   "placement": {
-    "type": "minecraft:random_spread",
+    "type": "repurposed_structures:advanced_random_spread",
     "salt": 420699602,
     "frequency_reduction_method": "default",
     "frequency": 0.4,
     "spread_type": "triangular",
     "spacing": 82,
     "separation": 10,
-    "exclusion_zone": {
+    "super_exclusion_zone": {
       "chunk_count": 8,
       "other_set": "#structory_towers:stowers_end_avoid"
     }

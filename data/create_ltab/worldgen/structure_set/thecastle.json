@@ -12,7 +12,7 @@
     "preferred_biomes": "#minecraft:has_structure/trail_ruins",
     "salt": 0,
     "spread": 1,
-    "exclusion_zone": {
+    "super_exclusion_zone": {
       "chunk_count": 10,
       "other_set": "#create_ltab:ltab_avoid"
     }

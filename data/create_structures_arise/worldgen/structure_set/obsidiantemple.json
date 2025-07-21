@@ -6,11 +6,11 @@
     }
   ],
   "placement": {
-    "type": "minecraft:random_spread",
+    "type": "repurposed_structures:advanced_random_spread",
     "spacing": 180,
     "separation": 4,
     "salt": 1888541296,
-    "exclusion_zone": {
+    "super_exclusion_zone": {
       "chunk_count": 12,
       "other_set": "#create_structures_arise:structures_arise_avoid"
     }

@@ -6,11 +6,11 @@
     }
   ],
   "placement": {
-    "type": "minecraft:random_spread",
+    "type": "repurposed_structures:advanced_random_spread",
     "salt": 23734816,
     "spacing": 48,
     "separation": 36,
-    "exclusion_zone": {
+    "super_exclusion_zone": {
       "chunk_count": 12,
       "other_set": "#skyvillages:skyvillage_avoid"
     }

@@ -26,9 +26,9 @@
     }
   ],
   "placement": {
-    "type": "minecraft:random_spread",
+    "type": "mns:advanced_random_spread",
     "salt": 399125,
-    "exclusion_zone": {
+    "super_exclusion_zone": {
       "other_set": "#incendium:incendium_avoid",
       "chunk_count": 10
     },

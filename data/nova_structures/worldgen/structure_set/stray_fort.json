@@ -10,9 +10,9 @@
 		}
 	],
 	"placement": {
-		"type": "minecraft:random_spread",
+		"type": "repurposed_structures:advanced_random_spread",
 		"salt": 5004938900,
-		"exclusion_zone": {
+		"super_exclusion_zone": {
     		"other_set": "#nova_structures:nova_avoid",
     		"chunk_count": 10
 		},

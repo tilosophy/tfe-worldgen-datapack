@@ -56,6 +56,10 @@
     "frequency": 0.725,
     "spread_type": "triangular",
     "spacing": 40,
-    "separation": 10
+    "separation": 10,
+    "super_exclusion_zone": {
+      "chunk_count": 12,
+      "other_set": "#structory_towers:stowers_avoid_extra"
+    }
   }
 }

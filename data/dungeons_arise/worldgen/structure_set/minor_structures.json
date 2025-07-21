@@ -29,8 +29,8 @@
     "salt": 342415935,
     "spacing": 32,
     "separation": 24,
-    "type": "minecraft:random_spread",
-    "exclusion_zone": {
+    "type": "repurposed_structures:advanced_random_spread",
+    "super_exclusion_zone": {
       "chunk_count": 6,
       "other_set": "#dungeons_arise:da_minor_avoid"
     }

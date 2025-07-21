@@ -25,7 +25,7 @@
     "spread_type": "triangular",
     "spacing": 55,
     "separation": 16,
-    "exclusion_zone": {
+    "super_exclusion_zone": {
       "chunk_count": 8,
       "other_set": "#structory_towers:stowers_avoid"
     }
