@@ -7,7 +7,7 @@
   ],
   "placement": {
     "type": "minecraft:concentric_rings",
-		"salt": 0,
+		"salt": 43534663,
     "super_exclusion_zone": {
     		"other_set": "#nova_structures:nova_end_avoid",
     		"chunk_count": 8

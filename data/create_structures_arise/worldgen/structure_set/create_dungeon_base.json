@@ -1,12 +1,12 @@
 {
   "structures": [
     {
-      "structure": "create_structures_arise:createdungeonbase",
+      "structure": "create_structures_arise:create_dungeon_base",
       "weight": 1
     }
   ],
   "placement": {
-    "type": "repurposed_structures:advanced_random_spread",
+    "type": "minecraft:random_spread",
     "spacing": 350,
     "separation": 4,
     "salt": 69658619,

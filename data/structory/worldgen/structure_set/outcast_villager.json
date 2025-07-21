@@ -36,7 +36,7 @@
     "type": "repurposed_structures:advanced_random_spread",
     "super_exclusion_zone": {
       "chunk_count": 12,
-      "other_set": "#structory_towers:stowers_avoid_extra"
+      "other_set": "#structory:structory_avoid"
     }
   }
 }
