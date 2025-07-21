@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "repurposed_structures:mansions_overworld",
+    "minecraft:woodland_mansions",
+    "minecraft:pillager_outposts",
+    "minecraft:jungle_temples",
+    "minecraft:desert_pyramids",
+    "dungeons_arise:major_structures"
+  ]
+}

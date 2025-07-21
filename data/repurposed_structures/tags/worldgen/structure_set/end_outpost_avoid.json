@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:end_cities",
+    "repurposed_structures:ancient_cities_end",
+    "mes:ender_spire",
+    "mes:enderkeep_courtyard",
+    "mes:enderwatch_tower",
+    "mes:monolith",
+    "mes:phantom_citadel",
+    "mes:starlight_voyager",
+    "mes:manuscript_shrine",
+    "mes:mystical_archway",
+    "nova_structures:end_castle"
+  ]
+}

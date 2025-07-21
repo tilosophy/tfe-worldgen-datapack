@@ -1,0 +1,50 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_badlands",
+    {
+      "id": "#forge:is_mesa",
+      "required": false
+    },
+    {
+      "id": "#c:in_mesa",
+      "required": false
+    },
+    {
+      "id": "#forge:is_badlands",
+      "required": false
+    },
+    {
+      "id": "#c:badlands",
+      "required": false
+    },
+    {
+      "id": "terralith:savanna_badlands",
+      "required": false
+    },
+    {
+      "id": "terralith:snowy_badlands",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:sierra_badlands",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:rugged_badlands",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:wasteland",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:volcanic_plains",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:frozen_tundra",
+      "required": false
+    }
+  ]
+}

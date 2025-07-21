@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "repurposed_structures:temples_nether",
+    "repurposed_structures:outposts_nether",
+    "repurposed_structures:villages_nether",
+    "repurposed_structures:ancient_cities_nether",
+    "minecraft:nether_complexes",
+    "incendium:greater_structures",
+    "incendium:lesser_structures"
+  ]
+}
