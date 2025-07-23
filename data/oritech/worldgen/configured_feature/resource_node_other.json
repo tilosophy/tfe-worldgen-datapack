@@ -14,9 +14,16 @@
       "oritech:resource_node_redstone"
     ],
     "boulderOres": [
+      "minecraft:deepslate_copper_ore",
+      "minecraft:deepslate_iron_ore",
+      "minecraft:deepslate_coal_ore",
+      "oritech:deepslate_nickel_ore",
+      "minecraft:deepslate_gold_ore",
       "minecraft:deepslate_gold_ore",
       "minecraft:deepslate_lapis_ore",
       "minecraft:deepslate_redstone_ore",
+      "minecraft:deepslate_redstone_ore",
+      "minecraft:deepslate",
       "minecraft:deepslate",
       "minecraft:deepslate",
       "minecraft:deepslate",
