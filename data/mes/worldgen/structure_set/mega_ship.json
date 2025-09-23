@@ -1,0 +1,18 @@
+{
+    "structures": [
+        {
+            "structure": "mes:mega_ship",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "mes:advanced_random_spread",
+        "salt": 151031809,
+        "super_exclusion_zone": {
+            "chunk_count": 6,
+            "other_set": "minecraft:end_cities"
+        },
+        "spacing": 77,
+        "separation": 15
+    }
+}
