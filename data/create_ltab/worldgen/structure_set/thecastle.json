@@ -6,12 +6,10 @@
     }
   ],
   "placement": {
-    "type": "minecraft:concentric_rings",
-    "count": 5,
-    "distance": 30,
-    "preferred_biomes": "#minecraft:has_structure/trail_ruins",
-    "salt": 0,
-    "spread": 1,
+    "type": "minecraft:random_spread",
+    "spacing": 65,
+    "separation": 20,
+    "salt": 774649767,
     "super_exclusion_zone": {
       "chunk_count": 10,
       "other_set": "#create_ltab:ltab_avoid"

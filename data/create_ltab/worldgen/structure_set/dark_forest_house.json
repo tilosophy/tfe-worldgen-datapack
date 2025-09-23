@@ -7,9 +7,9 @@
   ],
   "placement": {
     "type": "repurposed_structures:advanced_random_spread",
-    "spacing": 41,
+    "spacing": 36,
     "separation": 3,
-    "salt": 920751271,
+    "salt": 2077731838,
     "super_exclusion_zone": {
       "chunk_count": 6,
       "other_set": "#create_ltab:ltab_avoid"
