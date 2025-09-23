@@ -10,6 +10,13 @@
     "mes:phantom_citadel",
     "mes:starlight_voyager",
     "mes:manuscript_shrine",
+    "mes:mega_ship",
+    "mes:mega_ship_crashed",
+    "mes:mega_ship_crashed_2",
+    "mes:mega_ship_crashed_deepslate",
+    "mes:mega_ship_deepslate",
+    "mes:mega_ship_deepslate_2",
+    "mes:mega_ship_deepslate_3",
     "mes:mystical_archway",
     "nova_structures:end_castle"
   ]
