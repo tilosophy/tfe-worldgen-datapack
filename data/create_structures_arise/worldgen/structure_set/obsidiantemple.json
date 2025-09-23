@@ -7,7 +7,7 @@
   ],
   "placement": {
     "type": "repurposed_structures:advanced_random_spread",
-    "spacing": 180,
+    "spacing": 120,
     "separation": 4,
     "salt": 1888541296,
     "super_exclusion_zone": {
