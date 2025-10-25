@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "minecraft:villages",
-    "minecraft:pillager_outposts",
-    "repurposed_structures:villages_overworld"
-  ]
-}

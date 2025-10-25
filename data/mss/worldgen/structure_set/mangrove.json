@@ -1,0 +1,23 @@
+{
+  "structures":[
+    {
+      "structure": "mss:mangrove",
+      "weight": 1
+    }
+  ],
+  "placement": {
+
+    "type": "moogs_structures:advanced_random_spread",
+
+    "salt": 111136452,
+
+    "spacing": 68,
+
+    "separation": 32,
+
+    "super_exclusion_zone": {
+      "chunk_count": 6,
+      "other_set": "#mss:mss_avoid"
+    }
+  }
+}

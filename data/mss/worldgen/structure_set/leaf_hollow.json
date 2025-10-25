@@ -1,0 +1,23 @@
+{
+  "structures":[
+    {
+      "structure": "mss:leaf_hollow",
+      "weight": 1
+    }
+  ],
+  "placement": {
+
+    "type": "moogs_structures:advanced_random_spread",
+
+    "salt": 889896532,
+
+    "spacing": 104,
+
+    "separation": 62,
+
+    "super_exclusion_zone": {
+      "chunk_count": 4,
+      "other_set": "#mss:mss_avoid"
+    }
+  }
+}

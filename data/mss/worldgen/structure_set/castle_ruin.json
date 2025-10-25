@@ -1,0 +1,23 @@
+{
+  "structures":[
+    {
+      "structure": "mss:castle_ruin",
+      "weight": 1
+    }
+  ],
+  "placement": {
+
+    "type": "moogs_structures:advanced_random_spread",
+
+    "salt": 213548795,
+
+    "spacing": 107,
+
+    "separation": 56,
+
+    "super_exclusion_zone": {
+      "chunk_count": 6,
+      "other_set": "#mss:mss_avoid"
+    }
+  }
+}

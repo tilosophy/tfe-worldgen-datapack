@@ -1,0 +1,23 @@
+{
+  "structures":[
+    {
+      "structure": "mss:small_tower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+
+    "type": "moogs_structures:advanced_random_spread",
+
+    "salt": 266989875,
+
+    "spacing": 108,
+
+    "separation": 46,
+
+    "super_exclusion_zone": {
+      "chunk_count": 4,
+      "other_set": "#mss:mss_avoid"
+    }
+  }
+}

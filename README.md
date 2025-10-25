@@ -16,7 +16,7 @@ As the datapack is now hosted on github, no changelog will be provided in .TXT f
 ========================================
 
 🏷️ Nether Structures
-Prioritized: Minecraft > Incendium > MNS > Dungeons & Taverns (Nova Structures) > Biome Mods
+Prioritized: Minecraft > Incendium > MNS > Biome Mods
 
 🏷️ End Structures
-Prioritized: Minecraft > MES > Dungeons & Taverns (Nova Structures) > Biome ModsBiome Mods
+Prioritized: Minecraft > MES > Biome Mods
