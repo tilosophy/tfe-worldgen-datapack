@@ -9,6 +9,8 @@ This avoids any hostile structures spawning (too) close to villages and other (t
 
 💡This datapack also disables the spawning of some structures that are not in line with the server vision (or pose a conflict with another mod).
 
+💡 The compat datapack integrating Sky Villages with Farmer's Delight, Waystones, and Supplementaries has also been included in this single datapack.
+
 💡Finally, this datapack updates the biome tag files of all structure mods to account for the range of biome mods in this pack.
 
 As the datapack is now hosted on github, no changelog will be provided in .TXT format.
