@@ -11,11 +11,11 @@
   ],
   "placement": {
     "salt": 22427392,
-    "spacing": 36,
+    "spacing": 32,
     "separation": 16,
     "type": "moogs_structures:advanced_random_spread",
     "super_exclusion_zone": {
-      "chunk_count": 8,
+      "chunk_count": 6,
       "other_set": "#structory:structory_avoid"
     }
   }

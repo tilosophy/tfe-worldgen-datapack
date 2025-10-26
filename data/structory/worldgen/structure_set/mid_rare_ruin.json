@@ -16,10 +16,10 @@
   "placement": {
     "type": "moogs_structures:advanced_random_spread",
     "salt": 42069420,
-    "spacing": 64,
+    "spacing": 56,
     "separation": 24,
     "super_exclusion_zone": {
-      "chunk_count": 8,
+      "chunk_count": 6,
       "other_set": "#structory:structory_avoid"
     }
   }

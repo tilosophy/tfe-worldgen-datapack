@@ -13,10 +13,10 @@
 
     "spacing": 72,
 
-    "separation": 36,
+    "separation": 32,
 
     "super_exclusion_zone": {
-      "chunk_count": 6,
+      "chunk_count": 4,
       "other_set": "#mss:mss_avoid"
     }
   }

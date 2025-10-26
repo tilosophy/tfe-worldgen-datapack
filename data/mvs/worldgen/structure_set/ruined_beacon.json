@@ -16,8 +16,8 @@
       "other_set": "#mvs:mvs_avoid"
     },
 
-    "spacing": 75,
+    "spacing": 64,
 
-    "separation": 60
+    "separation": 48
   }
 }

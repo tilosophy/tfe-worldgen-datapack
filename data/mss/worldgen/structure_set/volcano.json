@@ -11,12 +11,12 @@
 
     "salt": 689865874,
 
-    "spacing": 158,
+    "spacing": 172,
 
-    "separation": 78,
+    "separation": 64,
 
     "super_exclusion_zone": {
-      "chunk_count": 10,
+      "chunk_count": 8,
       "other_set": "#mss:mss_avoid"
     }
   }

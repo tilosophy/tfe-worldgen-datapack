@@ -30,9 +30,9 @@
     "salt": 399125,
     "super_exclusion_zone": {
       "other_set": "#incendium:incendium_avoid",
-      "chunk_count": 10
+      "chunk_count": 4
     },
-    "spacing": 20,
-    "separation": 12
+    "spacing": 24,
+    "separation": 8
   }
 }

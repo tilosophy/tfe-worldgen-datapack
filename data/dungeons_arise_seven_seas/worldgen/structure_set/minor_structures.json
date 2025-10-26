@@ -23,11 +23,11 @@
   ],
   "placement": {
     "salt": 98123789,
-    "spacing": 64,
-    "separation": 56,
+    "spacing": 32,
+    "separation": 24,
     "type": "moogs_structures:advanced_random_spread",
     "super_exclusion_zone": {
-      "chunk_count": 6,
+      "chunk_count": 4,
       "other_set": "#dungeons_arise_seven_seas:dass_avoid"
     }
   }

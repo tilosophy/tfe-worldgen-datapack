@@ -12,8 +12,8 @@
       "chunk_count": 6,
       "other_set": "#mes:mes_avoid"
     },
-    "spacing": 30,
-    "separation": 12,
+    "spacing": 24,
+    "separation": 8,
     "min_distance_from_world_origin": 1000
   }
 }

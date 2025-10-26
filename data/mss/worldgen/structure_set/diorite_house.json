@@ -11,9 +11,9 @@
 
     "salt": 555222325,
 
-    "spacing": 156,
+    "spacing": 128,
 
-    "separation": 97,
+    "separation": 96,
 
     "super_exclusion_zone": {
       "chunk_count": 4,

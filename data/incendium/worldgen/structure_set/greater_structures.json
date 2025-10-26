@@ -15,7 +15,7 @@
   ],
   "placement": {
     "salt": 69420,
-    "spacing": 30,
+    "spacing": 32,
     "separation": 16,
     "type": "moogs_structures:advanced_random_spread",
     "super_exclusion_zone": {

@@ -9,10 +9,10 @@
     "type": "moogs_structures:advanced_random_spread",
     "salt": 144877834,
     "super_exclusion_zone": {
-      "chunk_count": 6,
+      "chunk_count": 4,
       "other_set": "#mns:mns_avoid"
     },
     "spacing": 28,
-    "separation": 13
+    "separation": 16
   }
 }
