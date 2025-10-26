@@ -1,25 +1,23 @@
 {
   "structures":[
     {
-      "structure": "mvs:cathedral",
+      "structure": "mvs:cart",
       "weight": 1
     }
   ],
   "placement": {
 
     "type": "moogs_structures:advanced_random_spread",
-
-    "salt": 303685798,
     
     "super_exclusion_zone": {
-      "chunk_count": 8,
+      "chunk_count": 2,
       "other_set": "#mvs:mvs_avoid"
     },
 
-    "spacing": 105,
+    "salt": 203698201,
 
-    "separation": 98,
+    "spacing": 34,
 
-    "min_distance_from_world_origin": 1000
+    "separation": 26
   }
 }

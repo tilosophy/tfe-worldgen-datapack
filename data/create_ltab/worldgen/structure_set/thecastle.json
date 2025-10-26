@@ -11,7 +11,7 @@
     "separation": 20,
     "salt": 774649767,
     "super_exclusion_zone": {
-      "chunk_count": 10,
+      "chunk_count": 6,
       "other_set": "#create_ltab:ltab_avoid"
     }
   }

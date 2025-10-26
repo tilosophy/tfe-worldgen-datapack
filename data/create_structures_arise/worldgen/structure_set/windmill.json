@@ -1,17 +1,17 @@
 {
   "structures": [
     {
-      "structure": "create_structures_arise:deadlordshouse",
+      "structure": "create_structures_arise:windmill",
       "weight": 1
     }
   ],
   "placement": {
     "type": "moogs_structures:advanced_random_spread",
-    "spacing": 120,
+    "spacing": 64,
     "separation": 16,
-    "salt": 745572558,
+    "salt": 353987075,
     "super_exclusion_zone": {
-      "chunk_count": 10,
+      "chunk_count": 2,
       "other_set": "#create_structures_arise:structures_arise_avoid"
     }
   }

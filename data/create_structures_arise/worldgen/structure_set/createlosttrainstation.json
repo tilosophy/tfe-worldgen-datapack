@@ -1,17 +1,17 @@
 {
   "structures": [
     {
-      "structure": "create_structures_arise:deadlordshouse",
+      "structure": "create_structures_arise:createlosttrainstation",
       "weight": 1
     }
   ],
   "placement": {
     "type": "moogs_structures:advanced_random_spread",
-    "spacing": 120,
-    "separation": 16,
-    "salt": 745572558,
+    "spacing": 100,
+    "separation": 12,
+    "salt": 1935205570,
     "super_exclusion_zone": {
-      "chunk_count": 10,
+      "chunk_count": 8,
       "other_set": "#create_structures_arise:structures_arise_avoid"
     }
   }

@@ -30,12 +30,12 @@
     }
   ],
   "placement": {
-    "salt": 420,
-    "spacing": 44,
-    "separation": 14,
+    "salt": 42398734,
+    "spacing": 36,
+    "separation": 16,
     "type": "moogs_structures:advanced_random_spread",
     "super_exclusion_zone": {
-      "chunk_count": 12,
+      "chunk_count": 8,
       "other_set": "#structory:structory_avoid"
     }
   }
