@@ -6,7 +6,7 @@
     }
   ],
   "placement": {
-    "type": "minecraft:random_spread",
+    "type": "moogs_structures:advanced_random_spread",
     "spacing": 65,
     "separation": 20,
     "salt": 774649767,

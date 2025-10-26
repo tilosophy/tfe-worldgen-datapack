@@ -13,7 +13,7 @@
     "salt": 22427392,
     "spacing": 42,
     "separation": 16,
-    "type": "repurposed_structures:advanced_random_spread",
+    "type": "moogs_structures:advanced_random_spread",
     "super_exclusion_zone": {
       "chunk_count": 8,
       "other_set": "#structory:structory_avoid"

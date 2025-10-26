@@ -17,7 +17,7 @@
     "salt": 69420,
     "spacing": 30,
     "separation": 16,
-    "type": "mns:advanced_random_spread",
+    "type": "moogs_structures:advanced_random_spread",
     "super_exclusion_zone": {
       "chunk_count": 8,
       "other_set": "minecraft:nether_complexes"

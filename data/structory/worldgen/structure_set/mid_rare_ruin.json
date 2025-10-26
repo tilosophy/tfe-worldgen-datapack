@@ -14,7 +14,7 @@
     }
   ],
   "placement": {
-    "type": "minecraft:random_spread",
+    "type": "moogs_structures:advanced_random_spread",
     "salt": 42069420,
     "frequency_reduction_method": "default",
     "frequency": 0.7,

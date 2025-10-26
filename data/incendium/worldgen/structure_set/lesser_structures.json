@@ -26,7 +26,7 @@
     }
   ],
   "placement": {
-    "type": "mns:advanced_random_spread",
+    "type": "moogs_structures:advanced_random_spread",
     "salt": 399125,
     "super_exclusion_zone": {
       "other_set": "#incendium:incendium_avoid",

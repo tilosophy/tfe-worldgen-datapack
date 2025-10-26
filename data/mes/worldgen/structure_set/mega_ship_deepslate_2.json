@@ -6,11 +6,11 @@
         }
     ],
     "placement": {
-        "type": "mes:advanced_random_spread",
+        "type": "moogs_structures:advanced_random_spread",
         "salt": 669842154,
         "super_exclusion_zone": {
             "chunk_count": 6,
-            "other_set": "minecraft:end_cities"
+            "other_set": "#mes:mes_avoid"
         },
         "spacing": 82,
         "separation": 46
