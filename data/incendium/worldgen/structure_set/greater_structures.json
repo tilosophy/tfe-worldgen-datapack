@@ -15,12 +15,12 @@
   ],
   "placement": {
     "salt": 69420,
-    "spacing": 32,
-    "separation": 16,
+    "spacing": 48,
+    "separation": 24,
     "type": "moogs_structures:advanced_random_spread",
     "super_exclusion_zone": {
       "chunk_count": 8,
-      "other_set": "minecraft:nether_complexes"
+      "other_set": "#incendium:incendium_avoid"
     }
   }
 }

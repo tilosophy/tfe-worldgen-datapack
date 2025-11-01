@@ -1,7 +1,6 @@
 {
   "replace": false,
   "values": [
-    "minecraft:nether_complexes",
-    "incendium:greater_structures"
+    "minecraft:nether_complexes"
   ]
 }
